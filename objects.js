@@ -1,3 +1,3 @@
-var playlist = {artistName: "Milo"
+var playlist = {artistName: "Milo",
                 songName: "have fun"
 };
